@@ -1,0 +1,23 @@
+{
+  "name": "gh-actions2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yisus-c/p_actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yisus-c/p_actions/issues"
+  },
+  "homepage": "https://github.com/yisus-c/p_actions#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
