@@ -21,6 +21,6 @@ jobs:
       with:
         args: deploy
       env:
-        # or if using AWS credentials asjdkjashdkj
+        # or if using ola mundo credentials asjdkjashdkj
          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
